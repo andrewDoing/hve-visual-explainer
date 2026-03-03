@@ -5,6 +5,8 @@ license: MIT
 compatibility: Requires a browser to view generated HTML files. Optional surf-cli for AI image generation.
 metadata:
   author: nicobailon
+  contributors:
+    - andrewvineyard
   version: "0.4.2"
 ---
 
@@ -407,3 +409,5 @@ Before delivering, apply this test: **Would a developer looking at this page imm
 7. Three-dot code block chrome
 
 If two or more of these are present, the page is slop. Regenerate with a different aesthetic direction — Editorial, Blueprint, Paper/ink, or a specific IDE theme. These constrained aesthetics are harder to mess up because they have specific visual requirements that prevent defaulting to generic patterns.
+
+*Brought to you by nicobailon — modified by andrewvineyard with ✨Copilot following brilliant human instruction, then carefully refined by our team of discerning human reviewers.*
